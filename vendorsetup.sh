@@ -1,2 +1,2 @@
-add_lunch_combo omni_pioneer-eng
-add_lunch_combo omni_pioneer-userdebug
+add_lunch_combo omni_kirin-eng
+add_lunch_combo omni_kirin-userdebug
