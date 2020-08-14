@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := kirin
+PRODUCT_RELEASE_NAME := houou
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -65,8 +65,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.build.security_patch=2025-12-31
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := omni_kirin
-PRODUCT_DEVICE := kirin
+PRODUCT_NAME := omni_houou
+PRODUCT_DEVICE := houou
 PRODUCT_BRAND := Sony
-PRODUCT_MODEL := Xperia 10
+PRODUCT_MODEL := Xperia Ace
 PRODUCT_MANUFACTURER := Sony
